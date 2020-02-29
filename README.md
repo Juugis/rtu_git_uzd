@@ -7,5 +7,5 @@ Serveris: Nginx (proxy), Docker (VM’s), Ubuntu serveri. Datubāze: Postgres
 Backend: Node.js, WebSockets, express, bcrypt, Google Maps API Production
 
 Tasks: 
-    Create feature: flow.txt  <-- done, tested
+    Create feature: flow.txt  <-- done, tested, production passed
     ...
